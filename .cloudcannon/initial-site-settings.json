@@ -2,11 +2,11 @@
   "ssg": "nextjs",
   "mode": "hosted",
   "build": {
-    "hugoVersion": "0.157.0",
-    "rubyVersion": "3.4.8",
     "nodeVersion": "22",
-    "denoVersion": "2.7.1",
-    "output_path": "out",
-    "build_command": "npx next build && npx next export"
+    "output_path": "fiu-frontend/.next",
+    "build_command": "cd fiu-frontend && npm run build",
+    "install_command": "cd fiu-frontend && npm i",
+    "environment_variables": [],
+    "preserved_paths": "fiu-frontend/node_modules/"
   }
 }
