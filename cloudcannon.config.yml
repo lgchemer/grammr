@@ -23,3 +23,7 @@ markdown:
     superscript: false
     heading_ids: false
     attributes: false
+build:
+  install_command: npm install
+  build_command: npm run build
+  output_path: out   # or .next if you're not using static export
