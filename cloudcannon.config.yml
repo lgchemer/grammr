@@ -27,3 +27,4 @@ build:
   install_command: npm install
   build_command: npm run build
   output_path: out   # or .next if you're not using static export
+  source: frontend   # path to your Next.js app relative to repo root
