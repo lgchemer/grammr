@@ -15,7 +15,7 @@ export default function Header() {
         </div>
       </div>
       <div className="flex justify-center items-center mt-3">
-        <p className="text-center text-xl xs:text-2xl sm:text-3xl md:text-4xl font-bold text-yellow-500 font-[Times] leading-tight">
+        <p className="text-center text-xl xs:text-2xl sm:text-3xl md:text-4xl font-bold text-yellow-500 font-[var(--font-cm)] leading-tight">
           Granular Micromechanics Research Lab
         </p>
       </div>

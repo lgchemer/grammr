@@ -1,9 +1,11 @@
 @import "tailwindcss";
+@import "computer-modern/index.css";
 
 /* Define color variables */
 :root {
   --background: #ffffff;
   --foreground: #000000;
+  --font-cm: "CMU Serif", serif;
 }
 
 @media (prefers-color-scheme: dark) {

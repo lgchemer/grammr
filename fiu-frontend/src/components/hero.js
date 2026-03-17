@@ -7,7 +7,7 @@ export default function Hero() {
           Granular Micromechanics Research Lab
         </h1>
         <p className="text-base xs:text-lg md:text-xl text-gray-700 mb-10 text-center max-w-2xl">
-          Advancing research at the intersection of micromechanics and granular materials. Explore our innovative projects, meet our dedicated team, and discover how we are shaping the future of granular science at FIU.
+          Advancing research at the intersection of micromechanics and granular materials. Explore our innovative projects, meet our dedicated team, and discover how we are shaping the future of granular materials research at Florida International University.
         </p>
         <a
           href="#contact"
