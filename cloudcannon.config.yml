@@ -27,3 +27,4 @@ build:
   install_command: " "
   build_command: cd fiu-frontend && npm run build
   output_path: fiu-frontend/.next
+  source: fiu-frontend
